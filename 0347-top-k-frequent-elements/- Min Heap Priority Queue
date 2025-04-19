@@ -1,0 +1,15 @@
+class Solution(object):
+    def topKFrequent(self, nums, k):
+        # Optimized Min Heap Priority Queue Solution 
+        heap = []
+        h = {}
+        for n in nums:
+            h[n] = h.get(n, 0) + 1
+        for key, val in h.items():
+            heapq.heappush(heap, (-val, key)) # Pushing based on negative value so the highest value will be on top
+
+
+        res = []
+        while len(res) < k:
+            res.append(heapq.heappop(heap)[1]) # we return heap[1] to return the number and not the ferquency
+        return res
