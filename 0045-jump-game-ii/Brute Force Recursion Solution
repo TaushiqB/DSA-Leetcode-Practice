@@ -1,0 +1,12 @@
+class Solution:
+    def jump(self, nums, pos = 0):
+        # Recursion
+        # Brute Force
+        # Time Complexity n^n
+        # Space Complexity n
+        if pos >= len(nums) - 1:
+            return 0
+        minjumps = 1001
+        for i in range(1, nums[pos]+1):
+            minjumps = min(minjumps, 1 + self.jump(nums, pos + i))
+        return minjumps
