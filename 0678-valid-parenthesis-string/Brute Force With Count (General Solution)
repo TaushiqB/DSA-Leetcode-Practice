@@ -1,0 +1,22 @@
+class Solution:
+    def checkValidString(self, s: str) -> bool:
+        # Brute Force
+        # Variable Approach
+        count = 0 
+        t = 0
+        for i in s:
+            if i == '(':
+                count+=1
+            elif i == ')':
+                count-=1
+            elif i == '*':
+                t+=1
+            
+            if count < 0:
+                if t == 0:
+                    return False
+                else:
+                    t-=1
+                    count+=1
+        if count == 0:
+            return True
