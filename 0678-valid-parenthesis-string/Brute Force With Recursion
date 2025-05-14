@@ -1,0 +1,22 @@
+class Solution:
+    def checkValidString(self, s: str) -> bool:
+        # Brute Force
+        # Recursion Trying out all possible Scenarios of *
+        ind = 0
+        count = 0
+        # Recursion Function
+        def function(ind, count):
+            if ind == len(s):
+                if count == 0:
+                    return True
+                else:
+                    return False
+            if s[ind] == '(':
+                count+=1
+                return function(ind+1, count)
+            elif s[ind] == ')':
+                count-=1
+                return function(ind+1, count)
+            elif s[ind] == '*':
+                return (function(ind+1, count) or function(ind+1, count+1) or function(ind+1, count-1))
+        return function(ind,count)
