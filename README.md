@@ -7,6 +7,7 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,20 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
