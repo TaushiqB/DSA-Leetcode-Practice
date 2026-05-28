@@ -8,10 +8,12 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
