@@ -6,6 +6,7 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -17,6 +18,7 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@ This repository contains my daily solutions to LeetCode problems as part of my o
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TaushiqB/DSA-Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
